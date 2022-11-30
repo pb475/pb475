@@ -1,5 +1,13 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fxa8UyRChmyT2wi5KA/giphy.gif" width="150"/>
+  
+---
+## Paul Bowen
+:cloud_with_lightning: [ACC](https://mathematics.exeter.ac.uk/aerosol-clouds/) 
+:cloud_with_rain: [Research](https://mathematics.exeter.ac.uk/aerosol-clouds/research/)
+:cloud_with_snow: [UoE Webpage](https://mathematics.exeter.ac.uk/staff/pb475)
+:partly_sunny: 
+</div>
 
 ---
 
