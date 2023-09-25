@@ -52,6 +52,16 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 ### :fire: My Stats :
 
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://raw.githubusercontent.com/pb475/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/pb475/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+<!--- ![](https://raw.githubusercontent.com/pb475/github-stats/master/generated/overview.svg#gh-dark-mode-only)--->
+<!--- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only) --->
+<!--- ![](https://raw.githubusercontent.com/pb475/github-stats/master/generated/languages.svg#gh-dark-mode-only)--->
+<!--- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only) --->
+
 <!--- TODO: authorise stats for private repos --->
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pb475&theme=dark&background=000000)](https://git.io/streak-stats) --->
 
