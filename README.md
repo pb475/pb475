@@ -52,4 +52,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pb475&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--- TODO: authorise stats for private repos --->
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pb475&theme=dark&background=000000)](https://git.io/streak-stats) --->
+
+<!--- [![my stats](https://github-readme-stats.vercel.app/api?username=pb475)](https://github.com/pb475/github-readme-stats) --->
