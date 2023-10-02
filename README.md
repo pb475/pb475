@@ -52,7 +52,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 ### :fire: My Stats :
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/pb475/github-stats">
 <img src="https://raw.githubusercontent.com/pb475/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/pb475/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
