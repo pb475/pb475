@@ -12,7 +12,7 @@
 ---
 # Hello 👋
 
-I am a postgraduate researcher at the University of Exeter, specializing in aerosols and cloud research. With a Ph.D. in atmospheric thermodynamics and numerical modeling, my expertise is in the intersection of mathematics, numerics, and atmospheric science. Currently, I am involved in the development of the **ParSEC Model** (to be released publically soon!), a project that explores the fascinating dynamics of clouds and aerosols.
+I am a postgraduate researcher at the University of Exeter, specializing in aerosols and cloud research. With a Ph.D. in atmospheric thermodynamics and numerical modeling, my expertise is in the intersection of mathematics, numerics, and atmospheric science. Currently, I am involved in the development of the **PARSEC Model** (to be released publically soon!), a project that explores the fascinating dynamics of clouds and aerosols.
 
 ## 🌦️ Research Interests
 
@@ -32,14 +32,11 @@ I'm currently channeling my expertise and enthusiasm into the **PARSEC Model**. 
 
 ## 📬 Contact Me
 
-Feel free to reach out if you'd like to collaborate, discuss research, or just have a friendly chat! You can contact me at: 📧 [pb475@exeter.ac.uk](mailto:pb475@exeter.ac.uk).
+Feel free to reach out if you'd like to collaborate, or discuss research! You can contact me at: 📧 [pb475@exeter.ac.uk](mailto:pb475@exeter.ac.uk).
 
 <!--- ## 🌐 Connect with Me --->
 
 <!--- Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile) to stay updated on my latest research and projects.--->
-
-Thank you for visiting my GitHub profile, and I look forward to connecting with fellow researchers and enthusiasts in the fascinating world of aerosols and cloud research! ☁️🔬
-
 
 
 ### :hammer_and_wrench: Languages and Tools :
