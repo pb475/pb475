@@ -38,6 +38,9 @@ Feel free to reach out if you'd like to collaborate, or discuss research! You ca
 
 <!--- Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile) to stay updated on my latest research and projects.--->
 
+## My CV
+[cv.pdf](cv.pdf)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
