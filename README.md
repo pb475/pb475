@@ -26,6 +26,12 @@ I am a postgraduate researcher at the University of Exeter, specializing in aero
 - 🎓 Ph.D. in Mathamatics, University of Exeter, 2023. Titled: Improving Moist Thermodynamics in Weather and Climate Models
 - 🎓 B.Sc. in Applied Mathematics and Theoretical Physics, Coventry University, 2016
 
+## 📚 Publications
+
+- :bulb: Cloud response to co-condensation of water and organic vapors over the boreal forest. DOI: [10.5194/egusphere-2023-164](https://doi.org/10.5194/egusphere-2023-164)
+- :bulb: Consistent and flexible thermodynamics in atmospheric models using internal energy as a thermodynamic potential. Part I: Equilibrium regime. DOI: [10.1002/qj.4385](https://doi.org/10.1002/qj.4385)
+- :bulb: Consistent and flexible thermodynamics in atmospheric models using internal energy as a thermodynamic potential. Part II: Non-Equilibrium regime. DOI: [10.1002/qj.4373](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4373)
+
 ## 🌟 Current Focus
 
 I'm currently channeling my expertise and enthusiasm into the **PARSEC Model**. This project aims to advance our understanding of cloud formation and behavior, with practical applications in meteorology, climate science, and beyond.
