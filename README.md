@@ -23,7 +23,7 @@ I am a postgraduate researcher at the University of Exeter, specializing in aero
 
 ## 📚 Education
 
-- 🎓 Ph.D. in Mathamatics, University of Exeter, 2023. Titled: Improving Moist Thermodynamics in Weather and Climate Models
+- 🎓 Ph.D. in Mathematics, University of Exeter, 2023. Titled: Improving Moist Thermodynamics in Weather and Climate Models
 - 🎓 B.Sc. in Applied Mathematics and Theoretical Physics, Coventry University, 2016
 
 ## 📚 Publications
@@ -38,7 +38,7 @@ I'm currently channeling my expertise and enthusiasm into the **PARSEC Model**. 
 
 ## 📬 Contact Me
 
-Feel free to reach out if you'd like to collaborate, or discuss research! You can contact me at: 📧 [pb475@exeter.ac.uk](mailto:pb475@exeter.ac.uk).
+Feel free to reach out if you'd like to collaborate, or discuss research! You can contact me at: 📧 [p.bowen@exeter.ac.uk](mailto:p.bowen@exeter.ac.uk).
 
 <!--- ## 🌐 Connect with Me --->
 
