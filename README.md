@@ -34,7 +34,11 @@ I am a postgraduate researcher at the University of Exeter, specializing in aero
 
 ## 🌟 Current Focus
 
-I'm currently channeling my expertise and enthusiasm into the **PARSEC Model**. This project aims to advance our understanding of cloud formation and behavior, with practical applications in meteorology, climate science, and beyond.
+I'm currently channeling my expertise and enthusiasm into the **PARSEC Model** [found here](https://github.com/UoE-ACC/parsec). This project aims to advance our understanding of cloud formation and behavior, with practical applications in meteorology, climate science, and beyond.
+(Currently marked private, contact me if you would like access).
+
+## Personal Projects
+ - 📺 [e-ink weather display](https://github.com/pb475/e-ink_weatherdisplay/settings)
 
 ## 📬 Contact Me
 
