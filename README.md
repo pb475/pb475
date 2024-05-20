@@ -38,7 +38,7 @@ I'm currently channeling my expertise and enthusiasm into the **PARSEC Model** [
 (Currently marked private, contact me if you would like access).
 
 ## Personal Projects
- - 📺 [e-ink weather display](https://github.com/pb475/e-ink_weatherdisplay/settings)
+ - 📺 [e-ink weather display](https://github.com/pb475/e-ink_weatherdisplay/)
 
 ## 📬 Contact Me
 
