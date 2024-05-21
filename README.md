@@ -10,6 +10,26 @@
 </div>
 
 ---
+<div align="center">
+    <!-- (https://github.com/Ileriayo/markdown-badges) -->
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/FORTRAN-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="FORTRAN" />
+    <img src="https://img.shields.io/badge/MATLAB-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="MATLAB" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <br></br>
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Latex" />
+</div>
+
+
+---
 # Hello 👋
 
 I am a postgraduate researcher at the University of Exeter, specializing in aerosols and cloud research. With a Ph.D. in atmospheric thermodynamics and numerical modeling, my expertise is in the intersection of mathematics, numerics, and atmospheric science. Currently, I am involved in the development of the **PARSEC Model** (to be released publically soon!), a project that explores the fascinating dynamics of clouds and aerosols.
@@ -37,7 +57,7 @@ I am a postgraduate researcher at the University of Exeter, specializing in aero
 I'm currently channeling my expertise and enthusiasm into the **PARSEC Model** [found here](https://github.com/UoE-ACC/parsec). This project aims to advance our understanding of cloud formation and behavior, with practical applications in meteorology, climate science, and beyond.
 (Currently marked private, contact me if you would like access).
 
-## Personal Projects
+## Featured Personal Projects
  - 📺 [e-ink weather display](https://github.com/pb475/e-ink_weatherdisplay/)
 
 ## 📬 Contact Me
@@ -51,14 +71,14 @@ Feel free to reach out if you'd like to collaborate, or discuss research! You ca
 ## My CV
 [cv.pdf](cv.pdf)
 
-
+<!--- 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/53436240?s=200&v=4" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
 </div>
-
+--->
 
 ### :fire: My Stats :
 
