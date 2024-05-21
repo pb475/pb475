@@ -9,6 +9,7 @@
 :partly_sunny: 
 </div>
 
+
 ---
 <div align="center">
     <!-- (https://github.com/Ileriayo/markdown-badges) -->
@@ -86,6 +87,7 @@ Feel free to reach out if you'd like to collaborate, or discuss research! You ca
 <a href="https://github.com/pb475/github-stats">
 <img src="https://raw.githubusercontent.com/pb475/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/pb475/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb475&theme=github_dark" alt="pb475's GitHub Stats"/>
 </a>
 
 <!--- ![](https://raw.githubusercontent.com/pb475/github-stats/master/generated/overview.svg#gh-dark-mode-only)--->
