@@ -34,7 +34,9 @@
 ---
 # Hello 👋
 
-I am a postgraduate researcher at the University of Exeter, specializing in aerosols and cloud research. With a Ph.D. in atmospheric thermodynamics and numerical modeling, my expertise is in the intersection of mathematics, numerics, and atmospheric science. Currently, I am involved in the development of the **PARSEC Model** (to be released publically soon!), a project that explores the fascinating dynamics of clouds and aerosols.
+I am a postgraduate researcher at the University of Exeter, specializing in aerosols and cloud research. 
+With a Ph.D. in atmospheric thermodynamics and numerical modeling, my expertise is in the intersection of mathematics, numerics, and atmospheric science. 
+Currently, I am involved in the development of the **PARSEC Model** (to be released publically soon!), a project that explores the fascinating dynamics of clouds and aerosols.
 
 ## 🌦️ Research Interests
 
@@ -56,10 +58,12 @@ I am a postgraduate researcher at the University of Exeter, specializing in aero
 
 ## 🌟 Current Focus
 
-I'm currently channeling my expertise and enthusiasm into the **PARSEC Model** [found here](https://github.com/UoE-ACC/parsec). This project aims to advance our understanding of cloud formation and behavior, with practical applications in meteorology, climate science, and beyond.
+I'm currently channeling my expertise and enthusiasm into the **PARSEC Model** [found here](https://github.com/UoE-ACC/parsec). 
+This project aims to advance our understanding of cloud formation and behavior, with practical applications in meteorology, climate science, and beyond.
 (Currently marked private, contact me if you would like access).
 
 ## Featured Personal Projects
+
  - 📺 [e-ink weather display](https://github.com/pb475/e-ink_weatherdisplay/)
 
 ## 📬 Contact Me
